@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gunjan 👋
 
-<!--
-**gunjan-builds/gunjan-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year IT Engineering Student  
+💡 Passionate about Python & Problem Solving  
+🚀 Building Projects and Learning Daily  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Know
+- Python (Basics + Logic Building)
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 🚀 My Work
+📂 Python Assignments  
+📊 Mini Projects  
+🎯 Practice Codes  
+
+---
+
+## 📈 My Goal
+To become a skilled developer and build real-world impactful projects.
